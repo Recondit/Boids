@@ -9,17 +9,17 @@ from button import Button
 
 #Configuration
 pygame.init()
-fps=100
+fps=140
 fpsClock=pygame.time.Clock()
-width,height = 1280 , 720
+width,height = 1366 , 768
 screen = pygame.display.set_mode((width,height))
 
 
 light = pygame.Color("#DBBEA1")
 dark = pygame.Color("#04151F")
 #Game Configuration
-n = 10
-radius = 10
+n = 90
+radius = 7
 
 
 
