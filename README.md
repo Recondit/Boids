@@ -10,5 +10,7 @@ I simulated with mesmerising phenomenon using the Pygame library by making each 
   
 The beautiful thing about this is , with just 3 simple rules , results in such a beautiful and lifelike simulation of an actual real life phenomenon.
 Here is the result :
+
+![]([https://github.com/Recondit/Boids/blob/main/fishschool.gif](https://github.com/Recondit/Boids/blob/main/Screen_Recording_2022-11-08_at_3_41_24_PM_AdobeExpress.gif))
   
  
